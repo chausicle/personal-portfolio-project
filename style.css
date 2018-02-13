@@ -11,7 +11,28 @@ body {
 header {
   width: 100%;
   height: 35em;
-  background-image: url(./sf-background-pic.png);
+  background-image: url(./pictures/sf-background-pic.png);
   background-position: 95%;
   background-size: cover;
+  margin-bottom: 5em;
+}
+
+.header-title {
+  align-self: center;
+  padding-top: 9em;
+}
+
+.spacer {
+  margin-bottom: 5em;
+}
+
+.spacer-title {
+  margin-top: 1em;
+}
+
+.img-projects {
+  width: 30em;
+  height:30em;
+  padding: 1%;
+  border: 1px solid white;
 }
