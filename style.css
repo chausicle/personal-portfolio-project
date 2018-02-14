@@ -27,7 +27,11 @@ header {
 }
 
 .spacer-title {
-  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.spacer-paragraph {
+  margin-top: 2em;
 }
 
 .img-projects {
